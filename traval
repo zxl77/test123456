@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "name": "travel",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 120.481157,
+        "lat": 36.100162,
+        "country": "中国",
+        "province": "山东",
+        "city": "青岛",
+        "viewpoint": "石老人海水浴场",
+        "date": "2018/10/3",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.481157,
+          36.100162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 120.392584,
+        "lat": 36.180045,
+        "country": "中国",
+        "province": "山东",
+        "city": "青岛",
+        "viewpoint": "天主教堂",
+        "date": "2018/10/4",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.392584,
+          36.180045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 120.398818,
+        "lat": 36.066311,
+        "country": "中国",
+        "province": "山东",
+        "city": "青岛",
+        "viewpoint": "奥林匹克帆船中心",
+        "date": "2018/10/4",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.398818,
+          36.066311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 121.509236,
+        "lat": 36.789208,
+        "country": "中国",
+        "province": "山东",
+        "city": "威海",
+        "viewpoint": "大乳山滨海旅游度假区",
+        "date": "2018/10/4",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509236,
+          36.789208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 122.127829,
+        "lat": 37.432477,
+        "country": "中国",
+        "province": "山东",
+        "city": "威海",
+        "viewpoint": "神游海洋世界",
+        "date": "2018/10/5",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.127829,
+          37.432477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 122.211256,
+        "lat": 37.505652,
+        "country": "中国",
+        "province": "山东",
+        "city": "威海",
+        "viewpoint": "刘公岛",
+        "date": "2018/10/5",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.211256,
+          37.505652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 122.120592,
+        "lat": 37.429883,
+        "country": "中国",
+        "province": "山东",
+        "city": "威海",
+        "viewpoint": "华夏城",
+        "date": "2018/10/5",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.120592,
+          37.429883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 121.442003,
+        "lat": 37.541665,
+        "country": "中国",
+        "province": "山东",
+        "city": "烟台",
+        "viewpoint": "东炮台",
+        "date": "2018/10/6",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.442003,
+          37.541665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 120.760583,
+        "lat": 37.83296,
+        "country": "中国",
+        "province": "山东",
+        "city": "烟台",
+        "viewpoint": "蓬莱阁",
+        "date": "2018/10/6",
+        "photo": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.760583,
+          37.83296
+        ]
+      }
+    }
+  ]
+}
